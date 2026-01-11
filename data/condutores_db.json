@@ -1,0 +1,112 @@
+{
+  "Grosbeak": {
+    "tipo": "CAA 636 MCM",
+    "diametro_mm": 31.77,
+    "rmg_mm": 12.65,
+    "rdc_25C": 0.05328,
+    "rac_25C": 0.05856,
+    "rac_50C": 0.06197,
+    "secao_mm2": 322.3,
+    "corrente_max_A": 730,
+    "peso_kg_km": 1087
+  },
+  "Cardinal": {
+    "tipo": "CAA 954 MCM",
+    "diametro_mm": 30.38,
+    "rmg_mm": 12.25,
+    "rdc_25C": 0.0355,
+    "rac_25C": 0.0390,
+    "rac_50C": 0.0412,
+    "secao_mm2": 483.4,
+    "corrente_max_A": 900,
+    "peso_kg_km": 1628
+  },
+  "Rail": {
+    "tipo": "CAA 954 MCM",
+    "diametro_mm": 29.59,
+    "rmg_mm": 11.95,
+    "rdc_25C": 0.0355,
+    "rac_25C": 0.0390,
+    "rac_50C": 0.0412,
+    "secao_mm2": 483.4,
+    "corrente_max_A": 900,
+    "peso_kg_km": 1628
+  },
+  "Pheasant": {
+    "tipo": "CAA 1272 MCM",
+    "diametro_mm": 35.10,
+    "rmg_mm": 14.17,
+    "rdc_25C": 0.0266,
+    "rac_25C": 0.0293,
+    "rac_50C": 0.0310,
+    "secao_mm2": 644.5,
+    "corrente_max_A": 1100,
+    "peso_kg_km": 2176
+  },
+  "Dove": {
+    "tipo": "CAA 556.5 MCM",
+    "diametro_mm": 23.55,
+    "rmg_mm": 9.51,
+    "rdc_25C": 0.0609,
+    "rac_25C": 0.0670,
+    "rac_50C": 0.0709,
+    "secao_mm2": 281.9,
+    "corrente_max_A": 650,
+    "peso_kg_km": 951
+  },
+  "Bluejay": {
+    "tipo": "CAA 1113 MCM",
+    "diametro_mm": 31.95,
+    "rmg_mm": 12.92,
+    "rdc_25C": 0.0304,
+    "rac_25C": 0.0334,
+    "rac_50C": 0.0353,
+    "secao_mm2": 564.0,
+    "corrente_max_A": 1000,
+    "peso_kg_km": 1904
+  },
+  "Drake": {
+    "tipo": "CAA 795 MCM",
+    "diametro_mm": 28.14,
+    "rmg_mm": 11.37,
+    "rdc_25C": 0.0427,
+    "rac_25C": 0.0470,
+    "rac_50C": 0.0497,
+    "secao_mm2": 402.8,
+    "corrente_max_A": 850,
+    "peso_kg_km": 1360
+  },
+  "Tern": {
+    "tipo": "CAA 795 MCM",
+    "diametro_mm": 27.00,
+    "rmg_mm": 10.91,
+    "rdc_25C": 0.0427,
+    "rac_25C": 0.0470,
+    "rac_50C": 0.0497,
+    "secao_mm2": 402.8,
+    "corrente_max_A": 850,
+    "peso_kg_km": 1360
+  },
+  "EHS 3/8\"": {
+    "tipo": "EHS Steel",
+    "diametro_mm": 9.52,
+    "rmg_mm": 0.01,
+    "rdc_25C": 2.50,
+    "rac_25C": 2.60,
+    "rac_50C": 2.80,
+    "secao_mm2": 50,
+    "corrente_max_A": 100,
+    "peso_kg_km": 400
+  },
+  "EHS 1/2\"": {
+    "tipo": "EHS Steel",
+    "diametro_mm": 12.7,
+    "rmg_mm": 0.01,
+    "rdc_25C": 1.50,
+    "rac_25C": 1.60,
+    "rac_50C": 1.70,
+    "secao_mm2": 80,
+    "corrente_max_A": 150,
+    "peso_kg_km": 600
+  }
+}
